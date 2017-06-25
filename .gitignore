@@ -1,0 +1,11 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+/MSMQConsumer/bin
+/MSMQConsumer/obj
+
+/MSMQSend/bin
+/MSMQSend/obj
+
+/MSMQShared/bin
+/MSMQShared/obj
+
+/bin

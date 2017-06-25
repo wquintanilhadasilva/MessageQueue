@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQSend", "MSMQSend\MSMQSend.csproj", "{2ECA960E-1919-4104-AD7F-29EC04BCC394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQShared", "MSMQShared\MSMQShared.csproj", "{F3261B55-1031-469E-8A3D-7A4AE5BEF14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQConsumer", "MSMQConsumer\MSMQConsumer.csproj", "{B26314C1-DE21-4815-B20F-194859E558E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECA960E-1919-4104-AD7F-29EC04BCC394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECA960E-1919-4104-AD7F-29EC04BCC394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECA960E-1919-4104-AD7F-29EC04BCC394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECA960E-1919-4104-AD7F-29EC04BCC394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3261B55-1031-469E-8A3D-7A4AE5BEF14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3261B55-1031-469E-8A3D-7A4AE5BEF14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3261B55-1031-469E-8A3D-7A4AE5BEF14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3261B55-1031-469E-8A3D-7A4AE5BEF14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26314C1-DE21-4815-B20F-194859E558E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26314C1-DE21-4815-B20F-194859E558E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26314C1-DE21-4815-B20F-194859E558E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26314C1-DE21-4815-B20F-194859E558E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
